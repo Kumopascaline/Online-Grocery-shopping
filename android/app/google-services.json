@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "708817453164",
+    "project_id": "e-grocery-cf5d2",
+    "storage_bucket": "e-grocery-cf5d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708817453164:android:dcc4844ba39c23b729d849",
+        "android_client_info": {
+          "package_name": "com.example.e_grocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708817453164-cv567clstcsl5af2ti37tjtvc4q3pc8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6EfwPO8kKZUqZe1njYSPwsKA0wvqVNoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708817453164-cv567clstcsl5af2ti37tjtvc4q3pc8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
